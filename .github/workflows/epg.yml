@@ -1,5 +1,4 @@
 name: Update EPG
-python3 generate_epg.py
 
 on:
   schedule:
