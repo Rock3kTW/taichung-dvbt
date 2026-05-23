@@ -1,59 +1,49 @@
 import requests
-import datetime
+from datetime import datetime, timedelta
 from lxml import etree
 
-# 台中 DVB-T 無線台頻道列表
-CHANNELS = {
-    "tw.pts": "公視",
-    "tw.ttv": "台視",
-    "tw.ctv": "中視",
-    "tw.cts": "華視",
-    "tw.ftv": "民視",
-    "tw.hakka": "客家電視台",
-    "tw.titv": "原住民族電視台",
-    "tw.moe": "學習頻道"
-}
+SOURCE_URL = "https://epg.pw/xmltv/epg_TW.xml"
 
-# 合法公開 EPG 來源（不含版權內容）
-EPG_SOURCE = "https://epg.hami-plus.net/api/list/{date}/{cid}"
+print("Downloading EPG from epg.pw...")
+resp = requests.get(SOURCE_URL, timeout=20)
+resp.raise_for_status()
 
-tv = etree.Element("tv", attrib={"generator-info-name": "Taiwan-DVBT-Taichung"})
+print("Parsing XML...")
+tree = etree.fromstring(resp.content)
 
-# 建立 <channel>
-for cid, name in CHANNELS.items():
-    ch = etree.SubElement(tv, "channel", id=cid)
-    etree.SubElement(ch, "display-name").text = name
+# 建立新的 XMLTV 根節點
+tv = etree.Element("tv", attrib={"generator-info-name": "epg.pw + Taiwan UTC+8 converter"})
 
-today = datetime.date.today()
+# 複製所有 <channel>
+for ch in tree.findall("channel"):
+    tv.append(ch)
 
-# 抓 7 天節目
-for cid in CHANNELS:
-    for i in range(7):
-        date = today + datetime.timedelta(days=i)
-        date_str = date.strftime("%Y-%m-%d")
+# 處理所有 <programme>
+for prog in tree.findall("programme"):
+    start = prog.get("start")  # 例如 20260523T120000Z
+    stop = prog.get("stop")
 
-        url = EPG_SOURCE.format(date=date_str, cid=cid)
-        print("Fetching:", url)
+    # epg.pw 使用 UTC（Z 結尾）
+    fmt = "%Y%m%dT%H%M%SZ"
 
-        try:
-            data = requests.get(url, timeout=10).json()
-        except:
-            continue
+    try:
+        start_dt = datetime.strptime(start, fmt) + timedelta(hours=8)
+        stop_dt = datetime.strptime(stop, fmt) + timedelta(hours=8)
+    except:
+        continue
 
-        if "programs" not in data:
-            continue
+    # 建立新的 <programme>
+    new_prog = etree.SubElement(
+        tv,
+        "programme",
+        start=start_dt.strftime("%Y%m%dT%H%M%S +0800"),
+        stop=stop_dt.strftime("%Y%m%dT%H%M%S +0800"),
+        channel=prog.get("channel")
+    )
 
-        for p in data["programs"]:
-            start = p["start"] + " +0800"
-            end = p["end"] + " +0800"
-
-            prog = etree.SubElement(tv, "programme", start=start, stop=end, channel=cid)
-
-            title = etree.SubElement(prog, "title", lang="zh-TW")
-            title.text = p.get("title", "無節目名稱")
-
-            desc = etree.SubElement(prog, "desc", lang="zh-TW")
-            desc.text = p.get("desc", "無節目描述")
+    # 複製標題與描述
+    for child in prog:
+        new_prog.append(child)
 
 # 輸出 XMLTV
 xml = etree.tostring(tv, encoding="utf-8", pretty_print=True, xml_declaration=True)
@@ -61,4 +51,4 @@ xml = etree.tostring(tv, encoding="utf-8", pretty_print=True, xml_declaration=Tr
 with open("docs/epg.xml", "wb") as f:
     f.write(xml)
 
-print("EPG generated: docs/epg.xml")
+print("EPG generated: docs/epg.xml (Taiwan UTC+8)")
