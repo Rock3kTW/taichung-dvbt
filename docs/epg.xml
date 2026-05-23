@@ -1,27 +1,2882 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="Taiwan-DVBT-Taichung">
-  <channel id="tw.pts">
-    <display-name>公視</display-name>
+<tv generator-info-name="epg.pw + Taiwan UTC+8 converter"><channel id="370137">
+    <display-name lang="TW">民視第一台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110134547243_53.png"/>
   </channel>
-  <channel id="tw.ttv">
-    <display-name>台視</display-name>
+  <channel id="370138">
+    <display-name lang="TW">民視台灣台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110143527850_51.png"/>
   </channel>
-  <channel id="tw.ctv">
-    <display-name>中視</display-name>
+  <channel id="370139">
+    <display-name lang="TW">民視</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110150198707_96.png"/>
   </channel>
-  <channel id="tw.cts">
-    <display-name>華視</display-name>
+  <channel id="370140">
+    <display-name lang="TW">大愛電視</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110156983154_52.png"/>
   </channel>
-  <channel id="tw.ftv">
-    <display-name>民視</display-name>
+  <channel id="370141">
+    <display-name lang="TW">中視</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110203905586_95.png"/>
   </channel>
-  <channel id="tw.hakka">
-    <display-name>客家電視台</display-name>
+  <channel id="370143">
+    <display-name lang="TW">華視</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110217658961_41.png"/>
   </channel>
-  <channel id="tw.titv">
-    <display-name>原住民族電視台</display-name>
+  <channel id="370144">
+    <display-name lang="TW">三立綜合台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110224289252_19.png"/>
   </channel>
-  <channel id="tw.moe">
-    <display-name>學習頻道</display-name>
+  <channel id="370145">
+    <display-name lang="TW">客家電視台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110230969148_39.png"/>
   </channel>
-</tv>
+  <channel id="370146">
+    <display-name lang="TW">八大綜藝台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110237815701_88.png"/>
+  </channel>
+  <channel id="370148">
+    <display-name lang="TW">TVBS精采台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110251247350_42.png"/>
+  </channel>
+  <channel id="370149">
+    <display-name lang="TW">愛爾達娛樂台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110257902484_18.png"/>
+  </channel>
+  <channel id="370150">
+    <display-name lang="TW">靖天綜合台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110304607222_48.png"/>
+  </channel>
+  <channel id="370151">
+    <display-name lang="TW">靖天日本台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110311314723_46.png"/>
+  </channel>
+  <channel id="370152">
+    <display-name lang="TW">ARIRANG阿里郎頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110619581937_19.png"/>
+  </channel>
+  <channel id="370153">
+    <display-name lang="TW">Global Trekker</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110626388144_49.png"/>
+  </channel>
+  <channel id="370156">
+    <display-name lang="TW">東森購物四台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110646538673_22.png"/>
+  </channel>
+  <channel id="370157">
+    <display-name lang="TW">LiveABC互動英語頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110653227679_77.png"/>
+  </channel>
+  <channel id="370158">
+    <display-name lang="TW">達文西頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110700193866_80.png"/>
+  </channel>
+  <channel id="370160">
+    <display-name lang="TW">Nick Jr. 兒童頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110714173957_14.png"/>
+  </channel>
+  <channel id="370161">
+    <display-name lang="TW">尼克兒童頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110721151811_32.png"/>
+  </channel>
+  <channel id="370162">
+    <display-name lang="TW">DreamWorks 夢工廠動畫</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110728162254_39.png"/>
+  </channel>
+  <channel id="370163">
+    <display-name lang="TW">靖天卡通台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110735125320_14.png"/>
+  </channel>
+  <channel id="370164">
+    <display-name lang="TW">靖洋卡通Nice Bingo</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110742005119_30.png"/>
+  </channel>
+  <channel id="370167">
+    <display-name lang="TW">MOMO親子台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110802687808_97.png"/>
+  </channel>
+  <channel id="370168">
+    <display-name lang="TW">東森購物一台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110809720139_70.png"/>
+  </channel>
+  <channel id="370169">
+    <display-name lang="TW">鏡電視新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110816477487_17.png"/>
+  </channel>
+  <channel id="370170">
+    <display-name lang="TW">東森新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110823075876_77.png"/>
+  </channel>
+  <channel id="370171">
+    <display-name lang="TW">華視新聞</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110829650925_83.png"/>
+  </channel>
+  <channel id="370172">
+    <display-name lang="TW">民視新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110836326598_60.png"/>
+  </channel>
+  <channel id="370173">
+    <display-name lang="TW">三立新聞iNEWS</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110842913601_69.png"/>
+  </channel>
+  <channel id="370174">
+    <display-name lang="TW">TVBS新聞</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110849538072_76.png"/>
+  </channel>
+  <channel id="370175">
+    <display-name lang="TW">東森財經新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110856176677_36.png"/>
+  </channel>
+  <channel id="370176">
+    <display-name lang="TW">中視新聞</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110902803415_50.png"/>
+  </channel>
+  <channel id="370177">
+    <display-name lang="TW">中天新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110909545808_36.png"/>
+  </channel>
+  <channel id="370178">
+    <display-name lang="TW">Bloomberg TV</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110916647263_66.png"/>
+  </channel>
+  <channel id="370179">
+    <display-name lang="TW">寰宇新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110923398442_35.png"/>
+  </channel>
+  <channel id="370181">
+    <display-name lang="TW">SBN全球財經台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110937203346_66.png"/>
+  </channel>
+  <channel id="370184">
+    <display-name lang="TW">東森購物二台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110957342879_86.png"/>
+  </channel>
+  <channel id="370185">
+    <display-name lang="TW">民視綜藝台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111004078240_28.png"/>
+  </channel>
+  <channel id="370186">
+    <display-name lang="TW">豬哥亮歌廳秀</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111010791311_42.png"/>
+  </channel>
+  <channel id="370187">
+    <display-name lang="TW">靖天育樂台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111017476846_77.png"/>
+  </channel>
+  <channel id="370188">
+    <display-name lang="TW">KLT-靖天國際台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111024170973_85.png"/>
+  </channel>
+  <channel id="370189">
+    <display-name lang="TW">Nice TV 靖天歡樂台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111031068542_59.png"/>
+  </channel>
+  <channel id="370190">
+    <display-name lang="TW">靖天資訊台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111037812565_65.png"/>
+  </channel>
+  <channel id="370192">
+    <display-name lang="TW">ROCK Entertainment</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111051197229_25.png"/>
+  </channel>
+  <channel id="370193">
+    <display-name lang="TW">Lifetime 娛樂頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111057974291_92.png"/>
+  </channel>
+  <channel id="370194">
+    <display-name lang="TW">電影原聲台CMusic</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111104916375_89.png"/>
+  </channel>
+  <channel id="370195">
+    <display-name lang="TW">TRACE Urban</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111114202855_12.png"/>
+  </channel>
+  <channel id="370197">
+    <display-name lang="TW">Mezzo Live HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111127403586_19.png"/>
+  </channel>
+  <channel id="370198">
+    <display-name lang="TW">CLASSICA 古典樂</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111133999505_59.png"/>
+  </channel>
+  <channel id="370199">
+    <display-name lang="TW">東森購物三台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111140757916_40.png"/>
+  </channel>
+  <channel id="370207">
+    <display-name lang="TW">TRACE Sport Stars</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111234551088_67.png"/>
+  </channel>
+  <channel id="370208">
+    <display-name lang="TW">智林體育台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111241351072_46.png"/>
+  </channel>
+  <channel id="370209">
+    <display-name lang="TW">時尚運動X</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111247958768_71.png"/>
+  </channel>
+  <channel id="370210">
+    <display-name lang="TW">車迷TV</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111254857391_10.png"/>
+  </channel>
+  <channel id="370211">
+    <display-name lang="TW">GINX Esports TV</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111301621203_17.png"/>
+  </channel>
+  <channel id="370214">
+    <display-name lang="TW">民視旅遊台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111321930292_24.png"/>
+  </channel>
+  <channel id="370215">
+    <display-name lang="TW">滾動力rollor</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111328708523_76.png"/>
+  </channel>
+  <channel id="370217">
+    <display-name lang="TW">fun探索娛樂台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111342162721_57.png"/>
+  </channel>
+  <channel id="370219">
+    <display-name lang="TW">Love Nature</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111355774166_51.png"/>
+  </channel>
+  <channel id="370220">
+    <display-name lang="TW">History 歷史頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111402408151_42.png"/>
+  </channel>
+  <channel id="370222">
+    <display-name lang="TW">愛爾達生活旅遊台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111416131786_59.png"/>
+  </channel>
+  <channel id="370223">
+    <display-name lang="TW">LUXE TV Channel</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111422939640_15.png"/>
+  </channel>
+  <channel id="370224">
+    <display-name lang="TW">TV5MONDE STYLE HD 生活時尚</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111429955057_45.png"/>
+  </channel>
+  <channel id="370226">
+    <display-name lang="TW">公視戲劇</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111443528309_38.png"/>
+  </channel>
+  <channel id="370227">
+    <display-name lang="TW">民視影劇台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111450185133_40.png"/>
+  </channel>
+  <channel id="370229">
+    <display-name lang="TW">HITS頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111503599013_16.png"/>
+  </channel>
+  <channel id="370231">
+    <display-name lang="TW">八大精彩台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111517057071_67.png"/>
+  </channel>
+  <channel id="370233">
+    <display-name lang="TW">靖天戲劇台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111530642925_67.png"/>
+  </channel>
+  <channel id="370234">
+    <display-name lang="TW">靖洋戲劇台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111537323882_17.png"/>
+  </channel>
+  <channel id="370235">
+    <display-name lang="TW">CI 罪案偵查頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111544002388_70.png"/>
+  </channel>
+  <channel id="370236">
+    <display-name lang="TW">視納華仁紀實頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111550854141_33.png"/>
+  </channel>
+  <channel id="370238">
+    <display-name lang="TW">金光布袋戲</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111604544110_65.png"/>
+  </channel>
+  <channel id="370239">
+    <display-name lang="TW">ROCK Action</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111611137695_94.png"/>
+  </channel>
+  <channel id="370240">
+    <display-name lang="TW">采昌影劇台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111617747154_24.png"/>
+  </channel>
+  <channel id="370241">
+    <display-name lang="TW">靖天映畫</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111624337709_78.png"/>
+  </channel>
+  <channel id="370242">
+    <display-name lang="TW">靖天電影台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111630952405_89.png"/>
+  </channel>
+  <channel id="370244">
+    <display-name lang="TW">影迷數位電影台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111644621881_28.png"/>
+  </channel>
+  <channel id="370245">
+    <display-name lang="TW">amc電影台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111651257409_26.png"/>
+  </channel>
+  <channel id="370246">
+    <display-name lang="TW">CinemaWorld</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111658179150_41.png"/>
+  </channel>
+  <channel id="370247">
+    <display-name lang="TW">My Cinema Europe HD 我的歐洲電影</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111704782015_92.png"/>
+  </channel>
+  <channel id="370248">
+    <display-name lang="TW">好消息2台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111711428112_63.png"/>
+  </channel>
+  <channel id="370249">
+    <display-name lang="TW">好消息</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111718214174_54.png"/>
+  </channel>
+  <channel id="370250">
+    <display-name lang="TW">大愛二台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111725174854_54.png"/>
+  </channel>
+  <channel id="370251">
+    <display-name lang="TW">人間衛視</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111732021551_51.png"/>
+  </channel>
+  <channel id="370252">
+    <display-name lang="TW">半島國際新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111738723005_22.png"/>
+  </channel>
+  <channel id="370253">
+    <display-name lang="TW">CNBC Asia 財經台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111749827097_62.png"/>
+  </channel>
+  <channel id="370254">
+    <display-name lang="TW">DW德國之聲</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612111756574035_95.png"/>
+  </channel>
+  <channel id="370255">
+    <display-name lang="TW">國會頻道1</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612113452897393_83.png"/>
+  </channel>
+  <channel id="370256">
+    <display-name lang="TW">國會頻道2</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612113459650919_57.png"/>
+  </channel>
+  <channel id="370259">
+    <display-name lang="TW">經典電影台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612113519904800_19.png"/>
+  </channel>
+  <channel id="370260">
+    <display-name lang="TW">經典卡通台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612113526529876_47.png"/>
+  </channel>
+  <channel id="370262">
+    <display-name lang="TW">精選動漫台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612113540523500_57.png"/>
+  </channel>
+  <channel id="374123">
+    <display-name lang="TW">FRANCE24 英文台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/07/02/20240702050357294844_55.png"/>
+  </channel>
+  <channel id="408104">
+    <display-name lang="TW">寰宇新聞台灣台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/01/01/20250101045823228795_96.png"/>
+  </channel>
+  <channel id="408106">
+    <display-name lang="TW">亞洲旅遊台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/01/01/20250101050108579661_22.png"/>
+  </channel>
+  <channel id="410773">
+    <display-name lang="TW">影迷數位紀實台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/02/05/20250205050136985134_71.png"/>
+  </channel>
+  <channel id="412028">
+    <display-name lang="TW">韓國娛樂台 KMTV</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/02/11/20250211045906387520_35.png"/>
+  </channel>
+  <channel id="414181">
+    <display-name lang="TW">INULTRA</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/03/01/20250301045946775077_46.png"/>
+  </channel>
+  <channel id="414182">
+    <display-name lang="TW">MagellanTV頻道 (麥哲倫頻道) </display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/03/01/20250301050105373432_94.png"/>
+  </channel>
+  <channel id="434232">
+    <display-name lang="TW">NHK WORLD-JAPAN</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/06/02/20250602050239085788_48.png"/>
+  </channel>
+  <channel id="434391">
+    <display-name lang="TW">Pet Club TV</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/06/03/20250603050013920575_58.png"/>
+  </channel>
+  <channel id="456500">
+    <display-name lang="TW">南桃園節目總表</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917030900391605_15.jpg"/>
+  </channel>
+  <channel id="456501">
+    <display-name lang="TW">南桃園公用頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917030919210333_58.jpg"/>
+  </channel>
+  <channel id="456502">
+    <display-name lang="TW">CNN</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917030936424463_46.png"/>
+  </channel>
+  <channel id="456503">
+    <display-name lang="TW">民視無線台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917030955973578_68.png"/>
+  </channel>
+  <channel id="456504">
+    <display-name lang="TW">TBC桃園生活台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031015318596_45.jpg"/>
+  </channel>
+  <channel id="456505">
+    <display-name lang="TW">台視</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031034704095_77.jpg"/>
+  </channel>
+  <channel id="456507">
+    <display-name lang="TW">大愛電視台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031100268420_10.png"/>
+  </channel>
+  <channel id="456508">
+    <display-name lang="TW">中視</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031118563901_35.png"/>
+  </channel>
+  <channel id="456509">
+    <display-name lang="TW">人間衛視</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031137947623_40.png"/>
+  </channel>
+  <channel id="456510">
+    <display-name lang="TW">華視</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031155788805_32.png"/>
+  </channel>
+  <channel id="456511">
+    <display-name lang="TW">公共電視</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031216329821_11.jpg"/>
+  </channel>
+  <channel id="456513">
+    <display-name lang="TW">公視台語台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031235354496_59.jpg"/>
+  </channel>
+  <channel id="456514">
+    <display-name lang="TW">好消息頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031258254628_38.png"/>
+  </channel>
+  <channel id="456516">
+    <display-name lang="TW">原住民頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031318471758_61.png"/>
+  </channel>
+  <channel id="456517">
+    <display-name lang="TW">客家電視台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031339767049_95.png"/>
+  </channel>
+  <channel id="456518">
+    <display-name lang="TW">BBC Earth</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031358596925_40.jpg"/>
+  </channel>
+  <channel id="456519">
+    <display-name lang="TW">Discovery</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031417182203_69.jpg"/>
+  </channel>
+  <channel id="456520">
+    <display-name lang="TW">TLC旅遊生活頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031436525762_24.png"/>
+  </channel>
+  <channel id="456521">
+    <display-name lang="TW">動物星球</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031454937667_62.jpg"/>
+  </channel>
+  <channel id="456522">
+    <display-name lang="TW">卡通頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031514234373_71.png"/>
+  </channel>
+  <channel id="456523">
+    <display-name lang="TW">小尼克頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031546849444_91.jpg"/>
+  </channel>
+  <channel id="456524">
+    <display-name lang="TW">MOMO親子台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031610880128_98.png"/>
+  </channel>
+  <channel id="456525">
+    <display-name lang="TW">東森幼幼台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031636959877_14.jpg"/>
+  </channel>
+  <channel id="456526">
+    <display-name lang="TW">緯來綜合台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031655265261_11.png"/>
+  </channel>
+  <channel id="456527">
+    <display-name lang="TW">八大第一台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031712852695_68.jpg"/>
+  </channel>
+  <channel id="456528">
+    <display-name lang="TW">八大綜合台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031731075548_84.jpg"/>
+  </channel>
+  <channel id="456529">
+    <display-name lang="TW">三立台灣台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031748057162_92.png"/>
+  </channel>
+  <channel id="456530">
+    <display-name lang="TW">三立都會台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031805765900_73.png"/>
+  </channel>
+  <channel id="456531">
+    <display-name lang="TW">華藝中文台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031823167296_88.jpg"/>
+  </channel>
+  <channel id="456532">
+    <display-name lang="TW">東森綜合台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031840234354_38.jpg"/>
+  </channel>
+  <channel id="456533">
+    <display-name lang="TW">東森超視</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031857898940_26.jpg"/>
+  </channel>
+  <channel id="456534">
+    <display-name lang="TW">東森購物2台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031916035902_81.png"/>
+  </channel>
+  <channel id="456535">
+    <display-name lang="TW">MOMO 2台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031933481911_56.png"/>
+  </channel>
+  <channel id="456536">
+    <display-name lang="TW">中天綜合台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917031949990817_28.png"/>
+  </channel>
+  <channel id="456537">
+    <display-name lang="TW">東風衛視</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032007586726_36.png"/>
+  </channel>
+  <channel id="456538">
+    <display-name lang="TW">年代MUCH TV</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032026216969_63.png"/>
+  </channel>
+  <channel id="456539">
+    <display-name lang="TW">中天娛樂台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032053206627_49.png"/>
+  </channel>
+  <channel id="456541">
+    <display-name lang="TW">東森戲劇台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032110560998_87.jpg"/>
+  </channel>
+  <channel id="456542">
+    <display-name lang="TW">八大戲劇台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032127818278_91.jpg"/>
+  </channel>
+  <channel id="456543">
+    <display-name lang="TW">TVBS歡樂台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032145508911_51.jpg"/>
+  </channel>
+  <channel id="456544">
+    <display-name lang="TW">緯來戲劇台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032202647189_89.png"/>
+  </channel>
+  <channel id="456545">
+    <display-name lang="TW">高點電視台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032220049314_24.png"/>
+  </channel>
+  <channel id="456546">
+    <display-name lang="TW">JET綜合台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032237477914_92.jpg"/>
+  </channel>
+  <channel id="456547">
+    <display-name lang="TW">東森購物3台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032255137115_33.png"/>
+  </channel>
+  <channel id="456548">
+    <display-name lang="TW">東森購物1台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032312599616_96.png"/>
+  </channel>
+  <channel id="456549">
+    <display-name lang="TW">MOMO 1台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032329987469_14.png"/>
+  </channel>
+  <channel id="456550">
+    <display-name lang="TW">壹電視新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032345887542_57.jpg"/>
+  </channel>
+  <channel id="456551">
+    <display-name lang="TW">年代新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032401871162_38.png"/>
+  </channel>
+  <channel id="456552">
+    <display-name lang="TW">東森新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032418916390_69.jpg"/>
+  </channel>
+  <channel id="456553">
+    <display-name lang="TW">民視新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032436253078_82.jpg"/>
+  </channel>
+  <channel id="456555">
+    <display-name lang="TW">三立新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032453282910_33.png"/>
+  </channel>
+  <channel id="456556">
+    <display-name lang="TW">TVBS 新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032519951049_21.jpg"/>
+  </channel>
+  <channel id="456557">
+    <display-name lang="TW">TVBS</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032546980305_30.jpg"/>
+  </channel>
+  <channel id="456558">
+    <display-name lang="TW">東森財經新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032603853302_35.jpg"/>
+  </channel>
+  <channel id="456560">
+    <display-name lang="TW">非凡新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032621409180_62.jpg"/>
+  </channel>
+  <channel id="456561">
+    <display-name lang="TW">ViVa1台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032639208317_61.jpg"/>
+  </channel>
+  <channel id="456562">
+    <display-name lang="TW">東森購物5台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032656545231_47.png"/>
+  </channel>
+  <channel id="456563">
+    <display-name lang="TW">CATCHPLAY電影台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032712744454_75.jpg"/>
+  </channel>
+  <channel id="456564">
+    <display-name lang="TW">東森電影台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032728478839_83.jpg"/>
+  </channel>
+  <channel id="456565">
+    <display-name lang="TW">緯來電影台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032743418857_37.png"/>
+  </channel>
+  <channel id="456566">
+    <display-name lang="TW">LS Time電影台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032757847192_64.png"/>
+  </channel>
+  <channel id="456567">
+    <display-name lang="TW">HBO</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032812693754_68.png"/>
+  </channel>
+  <channel id="456568">
+    <display-name lang="TW">東森洋片台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032827405129_96.jpg"/>
+  </channel>
+  <channel id="456569">
+    <display-name lang="TW">AXN</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032844221558_23.jpg"/>
+  </channel>
+  <channel id="456570">
+    <display-name lang="TW">好萊塢電影台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032858976728_21.png"/>
+  </channel>
+  <channel id="456571">
+    <display-name lang="TW">amc電影台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032914589936_26.jpg"/>
+  </channel>
+  <channel id="456572">
+    <display-name lang="TW">緯來育樂台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032931686009_60.png"/>
+  </channel>
+  <channel id="456574">
+    <display-name lang="TW">CINEMAX</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917032947726943_49.png"/>
+  </channel>
+  <channel id="456575">
+    <display-name lang="TW">緯來體育台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033004270852_19.png"/>
+  </channel>
+  <channel id="456576">
+    <display-name lang="TW">DAZN 1</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033019444810_34.jpg"/>
+  </channel>
+  <channel id="456577">
+    <display-name lang="TW">DAZN 2</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033034750310_47.jpg"/>
+  </channel>
+  <channel id="456578">
+    <display-name lang="TW">MOMO綜合台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033051797362_34.jpg"/>
+  </channel>
+  <channel id="456579">
+    <display-name lang="TW">緯來日本台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033108660461_30.png"/>
+  </channel>
+  <channel id="456580">
+    <display-name lang="TW">國興衛視</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033127433207_31.png"/>
+  </channel>
+  <channel id="456581">
+    <display-name lang="TW">BBC Lifestyle</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033146250210_86.jpg"/>
+  </channel>
+  <channel id="456582">
+    <display-name lang="TW">靖天資訊台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033203898709_79.jpg"/>
+  </channel>
+  <channel id="456583">
+    <display-name lang="TW">信吉電視台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033218610531_62.png"/>
+  </channel>
+  <channel id="456584">
+    <display-name lang="TW">信大電視台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033233285370_24.png"/>
+  </channel>
+  <channel id="456585">
+    <display-name lang="TW">中台灣生活網頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033255712356_70.jpg"/>
+  </channel>
+  <channel id="456586">
+    <display-name lang="TW">TBC台中生活台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033317853881_79.jpg"/>
+  </channel>
+  <channel id="456587">
+    <display-name lang="TW">鏡電視新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033335614535_52.jpg"/>
+  </channel>
+  <channel id="456588">
+    <display-name lang="TW">台灣藝術台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033350753574_69.png"/>
+  </channel>
+  <channel id="456589">
+    <display-name lang="TW">樂視台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033411937006_19.jpg"/>
+  </channel>
+  <channel id="456590">
+    <display-name lang="TW">非凡商業台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033430816131_51.jpg"/>
+  </channel>
+  <channel id="456591">
+    <display-name lang="TW">三立財經新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033452979285_81.jpg"/>
+  </channel>
+  <channel id="456592">
+    <display-name lang="TW">冠軍電視台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033508133255_65.jpg"/>
+  </channel>
+  <channel id="456593">
+    <display-name lang="TW">運通財經綜合台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033529427442_75.png"/>
+  </channel>
+  <channel id="456594">
+    <display-name lang="TW">SBN全球財經台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033552153061_23.png"/>
+  </channel>
+  <channel id="456595">
+    <display-name lang="TW">誠心電視台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033607817251_35.jpg"/>
+  </channel>
+  <channel id="456596">
+    <display-name lang="TW">NHK</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033632229261_20.png"/>
+  </channel>
+  <channel id="456597">
+    <display-name lang="TW">MTV</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033650979653_70.png"/>
+  </channel>
+  <channel id="456598">
+    <display-name lang="TW">Animax</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033714093020_49.png"/>
+  </channel>
+  <channel id="456599">
+    <display-name lang="TW">霹靂台灣台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033731607672_45.png"/>
+  </channel>
+  <channel id="456600">
+    <display-name lang="TW">海豚綜合台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033747040505_32.jpg"/>
+  </channel>
+  <channel id="456601">
+    <display-name lang="TW">八大娛樂台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033803828666_67.jpg"/>
+  </channel>
+  <channel id="456602">
+    <display-name lang="TW">十方法界</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033825096243_97.jpg"/>
+  </channel>
+  <channel id="456603">
+    <display-name lang="TW">壹電視電影台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033841323442_28.jpg"/>
+  </channel>
+  <channel id="456604">
+    <display-name lang="TW">華藏衛視 </display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033859531540_76.png"/>
+  </channel>
+  <channel id="456605">
+    <display-name lang="TW">壹電視資訊綜合台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033917565611_41.jpg"/>
+  </channel>
+  <channel id="456606">
+    <display-name lang="TW">佛衛慈悲台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033937533162_28.jpg"/>
+  </channel>
+  <channel id="456607">
+    <display-name lang="TW">紅豆電視台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917033952700461_68.jpg"/>
+  </channel>
+  <channel id="456608">
+    <display-name lang="TW">全大電視台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034007184181_32.jpg"/>
+  </channel>
+  <channel id="456609">
+    <display-name lang="TW">華藝台灣台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034021047649_63.jpg"/>
+  </channel>
+  <channel id="456610">
+    <display-name lang="TW">正德電視台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034037722996_52.jpg"/>
+  </channel>
+  <channel id="456611">
+    <display-name lang="TW">天良綜合台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034052047262_29.png"/>
+  </channel>
+  <channel id="456612">
+    <display-name lang="TW">番薯衛星電視台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034105739693_38.jpg"/>
+  </channel>
+  <channel id="456613">
+    <display-name lang="TW">富立電視台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034119991256_15.jpg"/>
+  </channel>
+  <channel id="456615">
+    <display-name lang="TW">Z頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034137127348_41.jpg"/>
+  </channel>
+  <channel id="456617">
+    <display-name lang="TW">冠軍夢想台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034151695114_61.jpg"/>
+  </channel>
+  <channel id="456618">
+    <display-name lang="TW">新天地民俗台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034208923010_96.jpg"/>
+  </channel>
+  <channel id="456619">
+    <display-name lang="TW">三聖電視台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034226332879_14.jpg"/>
+  </channel>
+  <channel id="456620">
+    <display-name lang="TW">威達超舜生活台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034241561463_45.jpg"/>
+  </channel>
+  <channel id="456621">
+    <display-name lang="TW">天美麗電視台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034256141315_49.jpg"/>
+  </channel>
+  <channel id="456622">
+    <display-name lang="TW">大立電視台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034310233025_43.jpg"/>
+  </channel>
+  <channel id="456624">
+    <display-name lang="TW">小公視</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034348289009_26.jpg"/>
+  </channel>
+  <channel id="456625">
+    <display-name lang="TW">華視教育體育文化台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034409685823_84.jpg"/>
+  </channel>
+  <channel id="456626">
+    <display-name lang="TW">國會頻道1台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034424606790_14.jpg"/>
+  </channel>
+  <channel id="456627">
+    <display-name lang="TW">國會頻道2台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034438903554_17.jpg"/>
+  </channel>
+  <channel id="456628">
+    <display-name lang="TW">幸福空間居家台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034456841704_86.jpg"/>
+  </channel>
+  <channel id="456629">
+    <display-name lang="TW">高點育樂台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034514287400_22.jpg"/>
+  </channel>
+  <channel id="456630">
+    <display-name lang="TW">台灣綜合台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034532012169_64.jpg"/>
+  </channel>
+  <channel id="456631">
+    <display-name lang="TW">唯心電視台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034552301648_56.jpg"/>
+  </channel>
+  <channel id="456632">
+    <display-name lang="TW">美麗人生購物台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034609816146_79.jpg"/>
+  </channel>
+  <channel id="456633">
+    <display-name lang="TW">大愛二台 </display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034632655173_18.png"/>
+  </channel>
+  <channel id="456634">
+    <display-name lang="TW">靖天映畫</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034648086712_56.jpg"/>
+  </channel>
+  <channel id="456635">
+    <display-name lang="TW">靖洋戲劇台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034705563800_19.jpg"/>
+  </channel>
+  <channel id="456636">
+    <display-name lang="TW">ROCK Action</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034720646298_41.jpg"/>
+  </channel>
+  <channel id="456637">
+    <display-name lang="TW">Global Trekker 探索世界 </display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034739622857_77.jpg"/>
+  </channel>
+  <channel id="456638">
+    <display-name lang="TW">靖天綜合台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034757155394_71.jpg"/>
+  </channel>
+  <channel id="456639">
+    <display-name lang="TW">寶島文化台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034811361784_74.jpg"/>
+  </channel>
+  <channel id="456640">
+    <display-name lang="TW">TaiwanPlus</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034835381409_82.jpg"/>
+  </channel>
+  <channel id="456641">
+    <display-name lang="TW">BBC News</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034858403245_83.jpg"/>
+  </channel>
+  <channel id="456642">
+    <display-name lang="TW">民視第一台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034917461812_13.jpg"/>
+  </channel>
+  <channel id="456643">
+    <display-name lang="TW">民視台灣台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917034945522495_98.jpg"/>
+  </channel>
+  <channel id="456644">
+    <display-name lang="TW">中視新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917035002618464_42.jpg"/>
+  </channel>
+  <channel id="456645">
+    <display-name lang="TW">台視新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917035019942493_61.jpg"/>
+  </channel>
+  <channel id="456646">
+    <display-name lang="TW">台視財經台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917035036471417_10.jpg"/>
+  </channel>
+  <channel id="456647">
+    <display-name lang="TW">台視綜合台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917035053435180_29.jpg"/>
+  </channel>
+  <channel id="456648">
+    <display-name lang="TW">彭博財經台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917035110632642_45.jpg"/>
+  </channel>
+  <channel id="456649">
+    <display-name lang="TW">Channel NewsAsia</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917035128887730_29.jpg"/>
+  </channel>
+  <channel id="456650">
+    <display-name lang="TW">韓國阿里郎</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917035151658357_64.jpg"/>
+  </channel>
+  <channel id="456651">
+    <display-name lang="TW">DREAMWORKS</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917035217010085_16.jpg"/>
+  </channel>
+  <channel id="456652">
+    <display-name lang="TW">Warner TV</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917035237774566_42.jpg"/>
+  </channel>
+  <channel id="456653">
+    <display-name lang="TW">靖天電影台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917035253544256_62.jpg"/>
+  </channel>
+  <channel id="456654">
+    <display-name lang="TW">CinemaWorld</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917035308652770_24.jpg"/>
+  </channel>
+  <channel id="456655">
+    <display-name lang="TW">HBO HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917035324057947_34.jpg"/>
+  </channel>
+  <channel id="456656">
+    <display-name lang="TW">HBO 強檔鉅獻</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917035339263398_57.jpg"/>
+  </channel>
+  <channel id="456657">
+    <display-name lang="TW">HBO 原創鉅獻</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917035405130629_50.jpg"/>
+  </channel>
+  <channel id="456658">
+    <display-name lang="TW">HBO 溫馨家庭</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917035427937773_37.jpg"/>
+  </channel>
+  <channel id="456659">
+    <display-name lang="TW">靖天日本台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917035446063372_51.jpg"/>
+  </channel>
+  <channel id="456660">
+    <display-name lang="TW">EVE</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917035506423494_59.jpg"/>
+  </channel>
+  <channel id="456661">
+    <display-name lang="TW">tvN</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917035522481402_13.jpg"/>
+  </channel>
+  <channel id="456662">
+    <display-name lang="TW">靖天歡樂台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917035539221477_56.jpg"/>
+  </channel>
+  <channel id="456663">
+    <display-name lang="TW">HITS</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917035558520120_36.jpg"/>
+  </channel>
+  <channel id="456664">
+    <display-name lang="TW">韓國娛樂台KMTV</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917035619421539_42.jpg"/>
+  </channel>
+  <channel id="456665">
+    <display-name lang="TW">靖天育樂台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917035637524023_93.jpg"/>
+  </channel>
+  <channel id="456666">
+    <display-name lang="TW">Lifetime</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917035654915840_28.jpg"/>
+  </channel>
+  <channel id="456667">
+    <display-name lang="TW">罪案偵緝頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917035713645662_79.jpg"/>
+  </channel>
+  <channel id="456668">
+    <display-name lang="TW">寵物頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917035732408986_14.jpg"/>
+  </channel>
+  <channel id="456670">
+    <display-name lang="TW">歷史頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917035751353528_42.jpg"/>
+  </channel>
+  <channel id="456671">
+    <display-name lang="TW">Discovery Asia</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917035811441687_89.jpg"/>
+  </channel>
+  <channel id="456807">
+    <display-name lang="TW">Discovery科學頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917051915914857_24.jpg"/>
+  </channel>
+  <channel id="456808">
+    <display-name lang="TW">DMAX</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917051937733043_16.jpg"/>
+  </channel>
+  <channel id="456809">
+    <display-name lang="TW">寰宇新聞台灣台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917051956198153_86.jpg"/>
+  </channel>
+  <channel id="456810">
+    <display-name lang="TW">亞洲旅遊台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917052013256313_13.jpg"/>
+  </channel>
+  <channel id="456811">
+    <display-name lang="TW">梅迪奇藝術</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917052029065773_82.jpg"/>
+  </channel>
+  <channel id="456812">
+    <display-name lang="TW">博斯運動二台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917052043951323_23.jpg"/>
+  </channel>
+  <channel id="456813">
+    <display-name lang="TW">博斯網球台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917052057930545_19.jpg"/>
+  </channel>
+  <channel id="456814">
+    <display-name lang="TW">博斯無限台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917052111304833_18.jpg"/>
+  </channel>
+  <channel id="456815">
+    <display-name lang="TW">博斯高球1台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917052124091814_23.jpg"/>
+  </channel>
+  <channel id="456817">
+    <display-name lang="TW">博斯魅力網</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917052151086362_79.jpg"/>
+  </channel>
+  <channel id="456818">
+    <display-name lang="TW">博斯運動一台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917052204800349_50.jpg"/>
+  </channel>
+  <channel id="456819">
+    <display-name lang="TW">博斯無限二台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917052219385831_92.jpg"/>
+  </channel>
+  <channel id="456821">
+    <display-name lang="TW">尼克兒童頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917052322382032_82.jpg"/>
+  </channel>
+  <channel id="456822">
+    <display-name lang="TW">達文西頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917052400862111_50.jpg"/>
+  </channel>
+  <channel id="456823">
+    <display-name lang="TW">CBeebies</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917052447965466_49.jpg"/>
+  </channel>
+  <channel id="456824">
+    <display-name lang="TW">CARTOONITO</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917052512081889_17.jpg"/>
+  </channel>
+  <channel id="456825">
+    <display-name lang="TW">靖洋卡通台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917052534781632_12.jpg"/>
+  </channel>
+  <channel id="456826">
+    <display-name lang="TW">靖天卡通台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917052557563478_84.jpg"/>
+  </channel>
+  <channel id="456827">
+    <display-name lang="TW">LOVE NATURE 4K</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917052616419979_98.jpg"/>
+  </channel>
+  <channel id="456828">
+    <display-name lang="TW">ROCK ENTERTAINMENT</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917052638316143_36.jpg"/>
+  </channel>
+  <channel id="456829">
+    <display-name lang="TW">ROCK EXTREME</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917052654429719_54.jpg"/>
+  </channel>
+  <channel id="456830">
+    <display-name lang="TW">彩虹頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053533998652_53.jpg"/>
+  </channel>
+  <channel id="456831">
+    <display-name lang="TW">彩虹e台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053547948191_56.jpg"/>
+  </channel>
+  <channel id="456832">
+    <display-name lang="TW">彩虹電影台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053601595610_31.jpg"/>
+  </channel>
+  <channel id="456833">
+    <display-name lang="TW">K 頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053615708854_77.jpg"/>
+  </channel>
+  <channel id="456834">
+    <display-name lang="TW">松視1台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053630098132_48.jpg"/>
+  </channel>
+  <channel id="456835">
+    <display-name lang="TW">松視2台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053644411378_48.jpg"/>
+  </channel>
+  <channel id="456836">
+    <display-name lang="TW">松視3台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053700256859_64.jpg"/>
+  </channel>
+  <channel id="456837">
+    <display-name lang="TW">松視4台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053716545805_39.jpg"/>
+  </channel>
+  <channel id="456838">
+    <display-name lang="TW">潘朵啦高畫質玩美台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053731026459_49.jpg"/>
+  </channel>
+  <channel id="456839">
+    <display-name lang="TW">潘朵啦高畫質粉紅台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053745518038_48.jpg"/>
+  </channel>
+  <channel id="456840">
+    <display-name lang="TW">JStar極限台電影頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053800983433_29.jpg"/>
+  </channel>
+  <channel id="456841">
+    <display-name lang="TW">驚豔成人電影台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053815516450_58.jpg"/>
+  </channel>
+  <channel id="456842">
+    <display-name lang="TW">香蕉台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053831077001_42.jpg"/>
+  </channel>
+  <channel id="456844">
+    <display-name lang="TW">玩家頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053904141833_42.jpg"/>
+  </channel>
+  <channel id="456845">
+    <display-name lang="TW">Happy</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053918887012_97.jpg"/>
+  </channel>
+  <channel id="456846">
+    <display-name lang="TW">Hot</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053936976940_84.jpg"/>
+  </channel>
+  <channel id="457208">
+    <display-name lang="TW">頻道總表</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919164924556572_29.png"/>
+  </channel>
+  <channel id="457209">
+    <display-name lang="TW">民視HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919164940074251_66.png"/>
+  </channel>
+  <channel id="457210">
+    <display-name lang="TW">人間衛視HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919164954903895_76.png"/>
+  </channel>
+  <channel id="457211">
+    <display-name lang="TW">台視HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165016546996_93.png"/>
+  </channel>
+  <channel id="457212">
+    <display-name lang="TW">大愛電視HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165035651457_27.png"/>
+  </channel>
+  <channel id="457213">
+    <display-name lang="TW">中視HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165051870108_56.png"/>
+  </channel>
+  <channel id="457214">
+    <display-name lang="TW">華視HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165105718020_68.png"/>
+  </channel>
+  <channel id="457215">
+    <display-name lang="TW">公視(HD)</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165120743160_73.png"/>
+  </channel>
+  <channel id="457216">
+    <display-name lang="TW">公視台語台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165135037332_32.png"/>
+  </channel>
+  <channel id="457217">
+    <display-name lang="TW">好消息HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165151658458_18.png"/>
+  </channel>
+  <channel id="457218">
+    <display-name lang="TW">原住民族電視HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165206451248_43.png"/>
+  </channel>
+  <channel id="457219">
+    <display-name lang="TW">客家電視HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165221965144_58.png"/>
+  </channel>
+  <channel id="457220">
+    <display-name lang="TW">華視教育體育文化台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165237809154_81.png"/>
+  </channel>
+  <channel id="457221">
+    <display-name lang="TW">公視兒少台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165254433835_69.png"/>
+  </channel>
+  <channel id="457222">
+    <display-name lang="TW">大愛二台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165311089739_71.png"/>
+  </channel>
+  <channel id="457223">
+    <display-name lang="TW">CARTOONITO HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165327022433_53.png"/>
+  </channel>
+  <channel id="457224">
+    <display-name lang="TW">ELTV生活英語台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165341327535_60.png"/>
+  </channel>
+  <channel id="457225">
+    <display-name lang="TW">龍華動畫HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165356446221_23.png"/>
+  </channel>
+  <channel id="457226">
+    <display-name lang="TW">尼克兒童頻道HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165415162660_35.png"/>
+  </channel>
+  <channel id="457227">
+    <display-name lang="TW">靖洋卡通台Nice Bingo HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165432102029_56.png"/>
+  </channel>
+  <channel id="457228">
+    <display-name lang="TW">靖天卡通台 HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165448833195_40.png"/>
+  </channel>
+  <channel id="457229">
+    <display-name lang="TW">Cbeebies HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165517933138_97.png"/>
+  </channel>
+  <channel id="457230">
+    <display-name lang="TW">達文西頻道HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165542997364_45.png"/>
+  </channel>
+  <channel id="457231">
+    <display-name lang="TW">Nick Jr.</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165605222804_69.png"/>
+  </channel>
+  <channel id="457232">
+    <display-name lang="TW">DREAMWORKS</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165623453005_92.png"/>
+  </channel>
+  <channel id="457233">
+    <display-name lang="TW">國會頻道1HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165635550892_67.png"/>
+  </channel>
+  <channel id="457234">
+    <display-name lang="TW">國會頻道2HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165647238316_43.png"/>
+  </channel>
+  <channel id="457235">
+    <display-name lang="TW">Fun探索娛樂台 4K</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165700505587_55.png"/>
+  </channel>
+  <channel id="457236">
+    <display-name lang="TW">Medici-arts HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165713406467_86.png"/>
+  </channel>
+  <channel id="457238">
+    <display-name lang="TW">MTV綜合台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165743807409_53.png"/>
+  </channel>
+  <channel id="457239">
+    <display-name lang="TW">Mezzo Live</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165757154232_31.png"/>
+  </channel>
+  <channel id="457240">
+    <display-name lang="TW">TRACE Urban HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165809388439_76.png"/>
+  </channel>
+  <channel id="457241">
+    <display-name lang="TW">古典音樂台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165822864730_14.png"/>
+  </channel>
+  <channel id="457242">
+    <display-name lang="TW">CMusic</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165925761257_21.png"/>
+  </channel>
+  <channel id="457243">
+    <display-name lang="TW">愛爾達體育1台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919165947404358_95.png"/>
+  </channel>
+  <channel id="457244">
+    <display-name lang="TW">愛爾達體育2台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170004562118_16.png"/>
+  </channel>
+  <channel id="457245">
+    <display-name lang="TW">愛爾達體育3台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170017338225_42.png"/>
+  </channel>
+  <channel id="457246">
+    <display-name lang="TW">愛爾達體育4台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170029589080_71.png"/>
+  </channel>
+  <channel id="457247">
+    <display-name lang="TW">博斯高球一台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170040882700_49.png"/>
+  </channel>
+  <channel id="457248">
+    <display-name lang="TW">博斯高球二台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170052267212_87.png"/>
+  </channel>
+  <channel id="457249">
+    <display-name lang="TW">博斯網球HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170104225630_51.png"/>
+  </channel>
+  <channel id="457250">
+    <display-name lang="TW">博斯魅力HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170116799867_91.png"/>
+  </channel>
+  <channel id="457251">
+    <display-name lang="TW">博斯無限台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170128609835_42.png"/>
+  </channel>
+  <channel id="457252">
+    <display-name lang="TW">博斯無限二台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170140695264_56.png"/>
+  </channel>
+  <channel id="457253">
+    <display-name lang="TW">TRACE Sport Stars HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170156924780_29.png"/>
+  </channel>
+  <channel id="457254">
+    <display-name lang="TW">DAZN 3</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170210007551_96.png"/>
+  </channel>
+  <channel id="457255">
+    <display-name lang="TW">博斯運動一台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170221787252_21.png"/>
+  </channel>
+  <channel id="457256">
+    <display-name lang="TW">博斯運動二台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170233978731_90.png"/>
+  </channel>
+  <channel id="457257">
+    <display-name lang="TW">DAZN 2</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170246492915_96.png"/>
+  </channel>
+  <channel id="457258">
+    <display-name lang="TW">智林體育HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170258664451_83.png"/>
+  </channel>
+  <channel id="457259">
+    <display-name lang="TW">EUROSPORT HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170311454372_76.png"/>
+  </channel>
+  <channel id="457260">
+    <display-name lang="TW">麥哲倫頻道 HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170327809474_63.png"/>
+  </channel>
+  <channel id="457261">
+    <display-name lang="TW">LOVE NATURE 4K</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170341931792_60.png"/>
+  </channel>
+  <channel id="457262">
+    <display-name lang="TW">BBC Earth HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170355853820_98.png"/>
+  </channel>
+  <channel id="457263">
+    <display-name lang="TW">Discovery Asia HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170410713373_55.png"/>
+  </channel>
+  <channel id="457264">
+    <display-name lang="TW">Discovery科學HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170425968584_44.png"/>
+  </channel>
+  <channel id="457265">
+    <display-name lang="TW">DMAX HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170441472336_63.png"/>
+  </channel>
+  <channel id="457266">
+    <display-name lang="TW">EVE HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170456421059_50.png"/>
+  </channel>
+  <channel id="457267">
+    <display-name lang="TW">Global Trekker HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170511089462_51.png"/>
+  </channel>
+  <channel id="457268">
+    <display-name lang="TW">歷史頻道HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170525209504_50.png"/>
+  </channel>
+  <channel id="457269">
+    <display-name lang="TW">罪案偵緝頻道HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170539449868_66.png"/>
+  </channel>
+  <channel id="457270">
+    <display-name lang="TW">BBC Lifestyle HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170553678151_74.png"/>
+  </channel>
+  <channel id="457271">
+    <display-name lang="TW">INULTRA</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170609649092_52.png"/>
+  </channel>
+  <channel id="457272">
+    <display-name lang="TW">PET CLUB TV HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170624066545_81.png"/>
+  </channel>
+  <channel id="457273">
+    <display-name lang="TW">LUXE TV HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170640404119_75.png"/>
+  </channel>
+  <channel id="457274">
+    <display-name lang="TW">Lifetime HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170654391286_26.png"/>
+  </channel>
+  <channel id="457275">
+    <display-name lang="TW">KLT-靖天國際台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170710756377_15.png"/>
+  </channel>
+  <channel id="457276">
+    <display-name lang="TW">幸福空間居家台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170724883726_72.png"/>
+  </channel>
+  <channel id="457277">
+    <display-name lang="TW">滾動力 rollor</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170738389930_54.png"/>
+  </channel>
+  <channel id="457278">
+    <display-name lang="TW">HGTV居家樂活頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170753346798_66.png"/>
+  </channel>
+  <channel id="457279">
+    <display-name lang="TW">車迷TV HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170808959902_25.png"/>
+  </channel>
+  <channel id="457280">
+    <display-name lang="TW">美食星球HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170822999988_31.png"/>
+  </channel>
+  <channel id="457281">
+    <display-name lang="TW">亞洲美食頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170840611834_26.png"/>
+  </channel>
+  <channel id="457282">
+    <display-name lang="TW">Food Network 美食台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170857744298_17.png"/>
+  </channel>
+  <channel id="457283">
+    <display-name lang="TW">亞洲旅遊HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170912098723_29.png"/>
+  </channel>
+  <channel id="457284">
+    <display-name lang="TW">EYE TV旅遊台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170925819253_83.png"/>
+  </channel>
+  <channel id="457285">
+    <display-name lang="TW">Travel Channel HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919170945727942_76.png"/>
+  </channel>
+  <channel id="457286">
+    <display-name lang="TW">Fashion TV HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171002155826_69.png"/>
+  </channel>
+  <channel id="457288">
+    <display-name lang="TW">愛爾達綜合台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171033089495_18.png"/>
+  </channel>
+  <channel id="457289">
+    <display-name lang="TW">三立綜合台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171046612691_63.png"/>
+  </channel>
+  <channel id="457290">
+    <display-name lang="TW">靖天資訊HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171100438680_96.png"/>
+  </channel>
+  <channel id="457291">
+    <display-name lang="TW">靖天綜合台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171114159799_72.png"/>
+  </channel>
+  <channel id="457292">
+    <display-name lang="TW">靖天育樂HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171128088954_60.png"/>
+  </channel>
+  <channel id="457293">
+    <display-name lang="TW">Smart 知識HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171141942892_60.png"/>
+  </channel>
+  <channel id="457294">
+    <display-name lang="TW">台視綜合</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171156069509_21.png"/>
+  </channel>
+  <channel id="457295">
+    <display-name lang="TW">亞洲綜合HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171208522333_62.png"/>
+  </channel>
+  <channel id="457296">
+    <display-name lang="TW">中視經典台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171222336167_77.png"/>
+  </channel>
+  <channel id="457297">
+    <display-name lang="TW">寰宇HD綜合</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171235677635_71.png"/>
+  </channel>
+  <channel id="457298">
+    <display-name lang="TW">中視菁采台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171248960811_15.png"/>
+  </channel>
+  <channel id="457299">
+    <display-name lang="TW">TVBS精采台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171302040909_29.png"/>
+  </channel>
+  <channel id="457300">
+    <display-name lang="TW">壹電視綜合 HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171315895090_47.png"/>
+  </channel>
+  <channel id="457301">
+    <display-name lang="TW">緯來精采HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171330796273_29.png"/>
+  </channel>
+  <channel id="457302">
+    <display-name lang="TW">高點育樂台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171344799186_72.png"/>
+  </channel>
+  <channel id="457303">
+    <display-name lang="TW">ETtoday綜合台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171358617049_32.png"/>
+  </channel>
+  <channel id="457304">
+    <display-name lang="TW">民視第一台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171413138830_75.png"/>
+  </channel>
+  <channel id="457305">
+    <display-name lang="TW">民視台灣台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171427904840_50.png"/>
+  </channel>
+  <channel id="457306">
+    <display-name lang="TW">Nice TV 靖天歡樂台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171441596419_84.png"/>
+  </channel>
+  <channel id="457307">
+    <display-name lang="TW">八大優頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171520480611_36.png"/>
+  </channel>
+  <channel id="457308">
+    <display-name lang="TW">momo綜合台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171544613160_86.png"/>
+  </channel>
+  <channel id="457309">
+    <display-name lang="TW">momo2台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171559507833_83.png"/>
+  </channel>
+  <channel id="457310">
+    <display-name lang="TW">東森購物3台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171613391209_93.png"/>
+  </channel>
+  <channel id="457311">
+    <display-name lang="TW">三立戲劇台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171628507319_68.png"/>
+  </channel>
+  <channel id="457312">
+    <display-name lang="TW">台灣戲劇HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171643663253_44.png"/>
+  </channel>
+  <channel id="457313">
+    <display-name lang="TW">龍華戲劇HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171656153616_95.png"/>
+  </channel>
+  <channel id="457314">
+    <display-name lang="TW">龍華偶像HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171708780431_98.png"/>
+  </channel>
+  <channel id="457315">
+    <display-name lang="TW">龍華影劇HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171721333904_52.png"/>
+  </channel>
+  <channel id="457316">
+    <display-name lang="TW">愛爾達影劇台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171734740564_46.png"/>
+  </channel>
+  <channel id="457317">
+    <display-name lang="TW">靖天戲劇HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171749010837_92.png"/>
+  </channel>
+  <channel id="457318">
+    <display-name lang="TW">靖洋戲劇HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171803858860_51.png"/>
+  </channel>
+  <channel id="457319">
+    <display-name lang="TW">EYE TV戲劇台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171817556696_65.png"/>
+  </channel>
+  <channel id="457320">
+    <display-name lang="TW">東森購物2台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171831230740_52.png"/>
+  </channel>
+  <channel id="457321">
+    <display-name lang="TW">靖天日本HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171857932515_21.png"/>
+  </channel>
+  <channel id="457322">
+    <display-name lang="TW">曼迪日本台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171914607840_49.png"/>
+  </channel>
+  <channel id="457323">
+    <display-name lang="TW">Animax</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171931413664_26.png"/>
+  </channel>
+  <channel id="457324">
+    <display-name lang="TW">OUTtv HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919171947466637_84.png"/>
+  </channel>
+  <channel id="457325">
+    <display-name lang="TW">tvN HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172010992764_86.png"/>
+  </channel>
+  <channel id="457326">
+    <display-name lang="TW">韓國娛樂台KMTV HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172036306004_42.png"/>
+  </channel>
+  <channel id="457327">
+    <display-name lang="TW">華藝中文台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172050952531_13.png"/>
+  </channel>
+  <channel id="457328">
+    <display-name lang="TW">ROCK Extreme</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172104326321_23.png"/>
+  </channel>
+  <channel id="457329">
+    <display-name lang="TW">ROCK Entertainment</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172117742086_19.png"/>
+  </channel>
+  <channel id="457330">
+    <display-name lang="TW">美好2台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172134444649_58.png"/>
+  </channel>
+  <channel id="457331">
+    <display-name lang="TW">momo1台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172149721207_37.png"/>
+  </channel>
+  <channel id="457332">
+    <display-name lang="TW">東森購物4台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172204722946_13.png"/>
+  </channel>
+  <channel id="457333">
+    <display-name lang="TW">中視新聞HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172219128652_46.png"/>
+  </channel>
+  <channel id="457334">
+    <display-name lang="TW">寰宇新聞HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172233167837_98.png"/>
+  </channel>
+  <channel id="457335">
+    <display-name lang="TW">寰宇新聞台灣台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172247086233_37.png"/>
+  </channel>
+  <channel id="457336">
+    <display-name lang="TW">台視新聞HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172301041141_21.png"/>
+  </channel>
+  <channel id="457337">
+    <display-name lang="TW">三立財經新聞台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172314356672_72.png"/>
+  </channel>
+  <channel id="457338">
+    <display-name lang="TW">華視新聞資訊HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172327802161_84.png"/>
+  </channel>
+  <channel id="457339">
+    <display-name lang="TW">壹電視新聞HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172341073321_45.png"/>
+  </channel>
+  <channel id="457340">
+    <display-name lang="TW">民視新聞台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172405013791_85.png"/>
+  </channel>
+  <channel id="457341">
+    <display-name lang="TW">鏡電視新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172431801748_73.png"/>
+  </channel>
+  <channel id="457342">
+    <display-name lang="TW">寰宇財經HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172446201175_37.png"/>
+  </channel>
+  <channel id="457343">
+    <display-name lang="TW">台視財經HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172508628996_46.png"/>
+  </channel>
+  <channel id="457344">
+    <display-name lang="TW">美好1台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172534569343_73.png"/>
+  </channel>
+  <channel id="457345">
+    <display-name lang="TW">東森購物5台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172551867978_68.png"/>
+  </channel>
+  <channel id="457346">
+    <display-name lang="TW">CNNI HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172605456493_15.png"/>
+  </channel>
+  <channel id="457347">
+    <display-name lang="TW">BBC NEWS HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172622327415_67.png"/>
+  </channel>
+  <channel id="457348">
+    <display-name lang="TW">Bloomberg</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172648500158_34.png"/>
+  </channel>
+  <channel id="457349">
+    <display-name lang="TW">Channel NewsAsia</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172702813568_84.png"/>
+  </channel>
+  <channel id="457350">
+    <display-name lang="TW">CNBC Asia</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172719166450_10.png"/>
+  </channel>
+  <channel id="457351">
+    <display-name lang="TW">Euronews</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172751557742_76.png"/>
+  </channel>
+  <channel id="457352">
+    <display-name lang="TW">德國之聲</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172810625748_52.png"/>
+  </channel>
+  <channel id="457354">
+    <display-name lang="TW">TaiwanPlus</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172900270756_59.png"/>
+  </channel>
+  <channel id="457355">
+    <display-name lang="TW">NHK新聞資訊台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172920878768_96.png"/>
+  </channel>
+  <channel id="457356">
+    <display-name lang="TW">半島英語新聞台Al Jazeera English HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172938466166_87.png"/>
+  </channel>
+  <channel id="457358">
+    <display-name lang="TW">視納華仁紀實台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173018133016_34.png"/>
+  </channel>
+  <channel id="457359">
+    <display-name lang="TW">影迷數位紀實台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173032303892_42.png"/>
+  </channel>
+  <channel id="457360">
+    <display-name lang="TW">美亞電影HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173106244833_39.png"/>
+  </channel>
+  <channel id="457361">
+    <display-name lang="TW">龍華電影HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173121682426_53.png"/>
+  </channel>
+  <channel id="457362">
+    <display-name lang="TW">靖天映畫HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173144005395_86.png"/>
+  </channel>
+  <channel id="457363">
+    <display-name lang="TW">靖天電影HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173156936686_97.png"/>
+  </channel>
+  <channel id="457364">
+    <display-name lang="TW">龍華洋片HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173210969684_85.png"/>
+  </channel>
+  <channel id="457365">
+    <display-name lang="TW">Warner TV HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173225968998_91.png"/>
+  </channel>
+  <channel id="457366">
+    <display-name lang="TW">ROCK Action HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173238858070_59.png"/>
+  </channel>
+  <channel id="457367">
+    <display-name lang="TW">wedotv Movies HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173250941248_98.png"/>
+  </channel>
+  <channel id="457368">
+    <display-name lang="TW">amc電影台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173303735759_34.png"/>
+  </channel>
+  <channel id="457369">
+    <display-name lang="TW">HITS HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173318052523_10.png"/>
+  </channel>
+  <channel id="457370">
+    <display-name lang="TW">龍華經典HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173330371551_43.png"/>
+  </channel>
+  <channel id="457371">
+    <display-name lang="TW">華藝影劇台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173347105135_84.png"/>
+  </channel>
+  <channel id="457372">
+    <display-name lang="TW">CatchPlay HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173359629273_50.png"/>
+  </channel>
+  <channel id="457373">
+    <display-name lang="TW">CinemaWorld HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173412041186_62.png"/>
+  </channel>
+  <channel id="457374">
+    <display-name lang="TW">壹電視電影台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173425078185_49.png"/>
+  </channel>
+  <channel id="457375">
+    <display-name lang="TW">采昌影劇台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173437679814_51.png"/>
+  </channel>
+  <channel id="457376">
+    <display-name lang="TW">影迷數位電影台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173450936196_74.png"/>
+  </channel>
+  <channel id="457377">
+    <display-name lang="TW">MCE 我的歐洲電影台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173504365160_58.png"/>
+  </channel>
+  <channel id="457378">
+    <display-name lang="TW">唯心電視HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173529402929_49.png"/>
+  </channel>
+  <channel id="457379">
+    <display-name lang="TW">佛衛慈悲台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173543930752_65.png"/>
+  </channel>
+  <channel id="457380">
+    <display-name lang="TW">華藏衛視HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173558476822_82.png"/>
+  </channel>
+  <channel id="457381">
+    <display-name lang="TW">正德電視台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173613285266_18.png"/>
+  </channel>
+  <channel id="457382">
+    <display-name lang="TW">信吉電視台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173635650083_88.png"/>
+  </channel>
+  <channel id="457383">
+    <display-name lang="TW">冠軍電視台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173649403417_78.png"/>
+  </channel>
+  <channel id="457384">
+    <display-name lang="TW">華藝台灣台 HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173703439756_94.png"/>
+  </channel>
+  <channel id="457385">
+    <display-name lang="TW">信吉藝文台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173716686430_95.png"/>
+  </channel>
+  <channel id="457386">
+    <display-name lang="TW">大立電視台 HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173731846716_57.png"/>
+  </channel>
+  <channel id="457387">
+    <display-name lang="TW">富立電視台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173744621707_19.png"/>
+  </channel>
+  <channel id="457388">
+    <display-name lang="TW">新天地民俗台 HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173758345367_53.png"/>
+  </channel>
+  <channel id="457389">
+    <display-name lang="TW">天良綜合台 HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173811240808_91.png"/>
+  </channel>
+  <channel id="457390">
+    <display-name lang="TW">番薯電視台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173822697118_30.png"/>
+  </channel>
+  <channel id="457391">
+    <display-name lang="TW">TV5MONDE</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173839117275_87.png"/>
+  </channel>
+  <channel id="457393">
+    <display-name lang="TW">FRANCE24F</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919173916274224_30.png"/>
+  </channel>
+  <channel id="460726">
+    <display-name lang="TW">東森新聞台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="460738">
+    <display-name lang="TW">東森財經新聞台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="460745">
+    <display-name lang="TW">Cinemax</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="460753">
+    <display-name lang="TW">HBO Signature</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="460754">
+    <display-name lang="TW">HBO Family</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="460776">
+    <display-name lang="TW">東森電影台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="460780">
+    <display-name lang="TW">東森戲劇台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="460797">
+    <display-name lang="TW">HBO HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="460830">
+    <display-name lang="TW">東森綜合台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="460844">
+    <display-name lang="TW">AXN</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="460845">
+    <display-name lang="TW">東森幼幼台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="460857">
+    <display-name lang="TW">HBO-Hits</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="460893">
+    <display-name lang="TW">HBO</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="460919">
+    <display-name lang="TW">超級電視台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="460925">
+    <display-name lang="TW">東森洋片台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="473812">
+    <display-name lang="TW">大台中生活頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/10/21/20251021050942306795_43.jpg"/>
+  </channel>
+  <channel id="474641">
+    <display-name lang="TW">Arirang TV HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/10/24/20251024051554537545_80.png"/>
+  </channel>
+  <channel id="476521">
+    <display-name lang="TW">東森購物1台HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/11/01/20251101045150129882_38.png"/>
+  </channel>
+  <channel id="485011">
+    <display-name lang="TW">彰化生活台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/12/10/20251210054457421145_95.jpg"/>
+  </channel>
+  <channel id="490090">
+    <display-name lang="TW">好消息二台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/01/01/20260101034730306801_58.png"/>
+  </channel>
+  <channel id="492811">
+    <display-name lang="TW">TVBS 新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/01/10/20260110045810124378_52.png"/>
+  </channel>
+  <channel id="492812">
+    <display-name lang="TW">TVBS</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/01/10/20260110045849569182_45.png"/>
+  </channel>
+  <channel id="495607">
+    <display-name lang="TW">TVBS歡樂台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/01/22/20260122045913999576_63.png"/>
+  </channel>
+  <channel id="501114">
+    <display-name lang="TW">民視第一台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/02/04/20260204045514309067_76.png"/>
+  </channel>
+  <channel id="501115">
+    <display-name lang="TW">民視台灣台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/02/04/20260204045532617292_28.png"/>
+  </channel>
+  <channel id="501116">
+    <display-name lang="TW">民視</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/02/04/20260204045549184360_19.png"/>
+  </channel>
+  <channel id="501117">
+    <display-name lang="TW">八大綜藝台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/02/04/20260204045629101694_77.png"/>
+  </channel>
+  <channel id="501118">
+    <display-name lang="TW">華視新聞</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/02/04/20260204045812324091_73.png"/>
+  </channel>
+  <channel id="501119">
+    <display-name lang="TW">民視新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/02/04/20260204045828917135_91.png"/>
+  </channel>
+  <channel id="501120">
+    <display-name lang="TW">中視新聞</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/02/04/20260204045854444779_38.png"/>
+  </channel>
+  <channel id="501121">
+    <display-name lang="TW">中天新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/02/04/20260204045911119198_70.png"/>
+  </channel>
+  <channel id="501122">
+    <display-name lang="TW">寰宇新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/02/04/20260204045923438501_61.png"/>
+  </channel>
+  <channel id="501123">
+    <display-name lang="TW">時尚運動X</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/02/04/20260204050139038720_64.png"/>
+  </channel>
+  <channel id="501124">
+    <display-name lang="TW">亞洲旅遊台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/02/04/20260204050214698251_72.png"/>
+  </channel>
+  <channel id="501874">
+    <display-name lang="TW">TVBS</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/02/05/20260205045933430676_40.png"/>
+  </channel>
+  <channel id="501876">
+    <display-name lang="TW">ROCK Xstream搖滾極限頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/02/05/20260205050258392455_86.png"/>
+  </channel>
+  <channel id="519418">
+    <display-name lang="TW">ELTV生活英語台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/03/03/20260303045713710873_79.webp"/>
+  </channel>
+  <channel id="535632">
+    <display-name lang="TW">TV5MONDE STYLE HD 生活時尚</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/04/02/20260402040009459802_13.png"/>
+  </channel>
+  <channel id="539228">
+    <display-name lang="TW">DMAX HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539229">
+    <display-name lang="TW">壹電視新聞HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539230">
+    <display-name lang="TW">華藏衛視HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539231">
+    <display-name lang="TW">美好1台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539232">
+    <display-name lang="TW">wedotv Movies HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539233">
+    <display-name lang="TW">博斯運動二台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539234">
+    <display-name lang="TW">龍華動畫HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539235">
+    <display-name lang="TW">天良綜合台 HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539236">
+    <display-name lang="TW">博斯高球二台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539237">
+    <display-name lang="TW">TRACE Sport Stars HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539238">
+    <display-name lang="TW">Euronews</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539240">
+    <display-name lang="TW">三立財經新聞台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539241">
+    <display-name lang="TW">愛爾達綜合台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539242">
+    <display-name lang="TW">ROCK Action HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539243">
+    <display-name lang="TW">Lifetime HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539244">
+    <display-name lang="TW">影迷數位紀實台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539245">
+    <display-name lang="TW">博斯運動一台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539246">
+    <display-name lang="TW">民視台灣台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539247">
+    <display-name lang="TW">罪案偵緝頻道HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539248">
+    <display-name lang="TW">靖洋卡通台Nice Bingo HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539249">
+    <display-name lang="TW">公視台語台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539250">
+    <display-name lang="TW">Arirang TV HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539251">
+    <display-name lang="TW">中視菁采台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539252">
+    <display-name lang="TW">BBC Earth HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539253">
+    <display-name lang="TW">Animax</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539254">
+    <display-name lang="TW">MCE 我的歐洲電影台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539255">
+    <display-name lang="TW">寰宇財經HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539256">
+    <display-name lang="TW">華視新聞資訊HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539257">
+    <display-name lang="TW">華藝中文台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539258">
+    <display-name lang="TW">東森購物2台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539259">
+    <display-name lang="TW">靖天綜合台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539260">
+    <display-name lang="TW">華藝台灣台 HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539261">
+    <display-name lang="TW">EVE HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539262">
+    <display-name lang="TW">BBC Lifestyle HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539263">
+    <display-name lang="TW">博斯魅力HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539264">
+    <display-name lang="TW">博斯無限二台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539265">
+    <display-name lang="TW">佛衛慈悲台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539266">
+    <display-name lang="TW">東森購物1台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539267">
+    <display-name lang="TW">BBC NEWS HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539268">
+    <display-name lang="TW">Channel NewsAsia</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539269">
+    <display-name lang="TW">ELTV生活英語台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539270">
+    <display-name lang="TW">壹電視綜合 HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539271">
+    <display-name lang="TW">愛爾達體育4台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539272">
+    <display-name lang="TW">中視HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539273">
+    <display-name lang="TW">德國之聲</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539274">
+    <display-name lang="TW">靖天電影HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539275">
+    <display-name lang="TW">龍華電影HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539276">
+    <display-name lang="TW">正德電視台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539277">
+    <display-name lang="TW">LUXE TV HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539278">
+    <display-name lang="TW">Global Trekker HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539279">
+    <display-name lang="TW">NHK新聞資訊台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539280">
+    <display-name lang="TW">龍華影劇HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539281">
+    <display-name lang="TW">冠軍電視台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539282">
+    <display-name lang="TW">鏡電視新聞台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539283">
+    <display-name lang="TW">龍華偶像HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539284">
+    <display-name lang="TW">東森購物3台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539285">
+    <display-name lang="TW">Cbeebies HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539286">
+    <display-name lang="TW">東森購物4台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539287">
+    <display-name lang="TW">大愛二台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539288">
+    <display-name lang="TW">台視財經HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539289">
+    <display-name lang="TW">台灣戲劇HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539290">
+    <display-name lang="TW">CARTOONITO HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539291">
+    <display-name lang="TW">國會頻道2HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539292">
+    <display-name lang="TW">OUTtv HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539293">
+    <display-name lang="TW">DMAX頻道</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539294">
+    <display-name lang="TW">達文西頻道HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539295">
+    <display-name lang="TW">國會頻道1HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539296">
+    <display-name lang="TW">動物星球頻道</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539297">
+    <display-name lang="TW">華視教育體育文化台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539298">
+    <display-name lang="TW">Fun探索娛樂台 4K</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539299">
+    <display-name lang="TW">台視HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539300">
+    <display-name lang="TW">大愛電視HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539301">
+    <display-name lang="TW">Discovery</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539302">
+    <display-name lang="TW">CinemaWorld HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539303">
+    <display-name lang="TW">CatchPlay HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539304">
+    <display-name lang="TW">tvN HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539305">
+    <display-name lang="TW">愛爾達體育1台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539306">
+    <display-name lang="TW">龍華經典HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539307">
+    <display-name lang="TW">三立綜合台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539308">
+    <display-name lang="TW">車迷TV HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539309">
+    <display-name lang="TW">TV5MONDE STYLE HD 生活時尚</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539310">
+    <display-name lang="TW">TV5MONDE</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539311">
+    <display-name lang="TW">台視新聞HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539312">
+    <display-name lang="TW">靖天映畫HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539313">
+    <display-name lang="TW">曼迪日本台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539314">
+    <display-name lang="TW">東森購物5台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539315">
+    <display-name lang="TW">美好2台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539316">
+    <display-name lang="TW">Smart 知識HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539317">
+    <display-name lang="TW">韓國娛樂台KMTV HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539318">
+    <display-name lang="TW">中視經典台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539319">
+    <display-name lang="TW">民視HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539320">
+    <display-name lang="TW">民視新聞台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539321">
+    <display-name lang="TW">EUROSPORT HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539322">
+    <display-name lang="TW">龍華戲劇HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539323">
+    <display-name lang="TW">INULTRA</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539324">
+    <display-name lang="TW">新天地民俗台 HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539325">
+    <display-name lang="TW">EYE TV戲劇台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539326">
+    <display-name lang="TW">Nick Jr.</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539327">
+    <display-name lang="TW">亞洲旅遊HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539328">
+    <display-name lang="TW">半島英語新聞台Al Jazeera English HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539329">
+    <display-name lang="TW">愛爾達體育2台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539330">
+    <display-name lang="TW">民視第一台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539331">
+    <display-name lang="TW">博斯無限台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539332">
+    <display-name lang="TW">TRACE Urban HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539333">
+    <display-name lang="TW">公視(HD)</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539334">
+    <display-name lang="TW">客家電視HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539335">
+    <display-name lang="TW">ETtoday綜合台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539336">
+    <display-name lang="TW">公視兒少台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539337">
+    <display-name lang="TW">momo1台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539338">
+    <display-name lang="TW">美食星球HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539339">
+    <display-name lang="TW">三立戲劇台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539340">
+    <display-name lang="TW">LOVE NATURE 4K</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539341">
+    <display-name lang="TW">華藝影劇台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539342">
+    <display-name lang="TW">靖天資訊HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539343">
+    <display-name lang="TW">ROCK Entertainment</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539344">
+    <display-name lang="TW">中視新聞HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539345">
+    <display-name lang="TW">台視綜合</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539346">
+    <display-name lang="TW">寰宇HD綜合</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539347">
+    <display-name lang="TW">momo2台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539348">
+    <display-name lang="TW">愛爾達影劇台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539349">
+    <display-name lang="TW">八大優頻道</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539350">
+    <display-name lang="TW">HGTV居家樂活頻道</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539351">
+    <display-name lang="TW">博斯高球一台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539352">
+    <display-name lang="TW">amc電影台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539353">
+    <display-name lang="TW">EYE TV旅遊台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539354">
+    <display-name lang="TW">滾動力 rollor</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539355">
+    <display-name lang="TW">寰宇新聞台灣台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539356">
+    <display-name lang="TW">古典音樂台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539357">
+    <display-name lang="TW">美亞電影HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539358">
+    <display-name lang="TW">影迷數位電影台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539359">
+    <display-name lang="TW">CNBC Asia</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539360">
+    <display-name lang="TW">Discovery科學HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539361">
+    <display-name lang="TW">好消息二台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539362">
+    <display-name lang="TW">Bloomberg</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539363">
+    <display-name lang="TW">人間衛視HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539364">
+    <display-name lang="TW">Discovery Asia HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539365">
+    <display-name lang="TW">高點育樂台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539366">
+    <display-name lang="TW">靖天卡通台 HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539367">
+    <display-name lang="TW">MTV綜合台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539368">
+    <display-name lang="TW">緯來精采HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539369">
+    <display-name lang="TW">靖天日本HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539370">
+    <display-name lang="TW">歷史頻道HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539371">
+    <display-name lang="TW">尼克兒童頻道HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539372">
+    <display-name lang="TW">富立電視台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539373">
+    <display-name lang="TW">PET CLUB TV HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539374">
+    <display-name lang="TW">智林體育HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539375">
+    <display-name lang="TW">亞洲綜合HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539376">
+    <display-name lang="TW">靖洋戲劇HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539377">
+    <display-name lang="TW">采昌影劇台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539378">
+    <display-name lang="TW">博斯網球HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539379">
+    <display-name lang="TW">momo綜合台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539380">
+    <display-name lang="TW">大立電視台 HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539381">
+    <display-name lang="TW">Warner TV HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539382">
+    <display-name lang="TW">靖天育樂HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539383">
+    <display-name lang="TW">愛爾達體育3台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539384">
+    <display-name lang="TW">幸福空間居家台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539385">
+    <display-name lang="TW">番薯電視台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539386">
+    <display-name lang="TW">寰宇新聞HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539387">
+    <display-name lang="TW">CNNI HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539388">
+    <display-name lang="TW">HITS HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539389">
+    <display-name lang="TW">Fashion TV HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539390">
+    <display-name lang="TW">DREAMWORKS</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539391">
+    <display-name lang="TW">麥哲倫頻道 HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539392">
+    <display-name lang="TW">KLT-靖天國際台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539393">
+    <display-name lang="TW">Mezzo Live</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539394">
+    <display-name lang="TW">Travel Channel HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539395">
+    <display-name lang="TW">好消息HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539396">
+    <display-name lang="TW">CMusic</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539397">
+    <display-name lang="TW">FRANCE24E HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539398">
+    <display-name lang="TW">原住民族電視HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539399">
+    <display-name lang="TW">Food Network 美食台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539400">
+    <display-name lang="TW">TaiwanPlus</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539401">
+    <display-name lang="TW">亞洲美食頻道</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539402">
+    <display-name lang="TW">信吉電視台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539403">
+    <display-name lang="TW">Nice TV 靖天歡樂台</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539404">
+    <display-name lang="TW">ROCK Extreme</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539405">
+    <display-name lang="TW">靖天戲劇HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539406">
+    <display-name lang="TW">Medici-arts HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539407">
+    <display-name lang="TW">華視HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539408">
+    <display-name lang="TW">龍華洋片HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539409">
+    <display-name lang="TW">視納華仁紀實台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539410">
+    <display-name lang="TW">信吉藝文台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539411">
+    <display-name lang="TW">壹電視電影台HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539412">
+    <display-name lang="TW">FRANCE24F</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539413">
+    <display-name lang="TW">唯心電視HD</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539414">
+    <display-name lang="TW">頻道總表</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539415">
+    <display-name lang="TW">DAZN 2</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="539416">
+    <display-name lang="TW">DAZN 3</display-name>
+    <icon src=""/>
+  </channel>
+  <channel id="543802">
+    <display-name lang="TW">原住民族電視台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/05/07/20260507045652723900_11.webp"/>
+  </channel>
+  <channel id="543819">
+    <display-name lang="TW">幸福空間居家台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/05/07/20260507050213828686_79.webp"/>
+  </channel>
+  <channel id="544778">
+    <display-name lang="TW">博斯高球台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/05/12/20260512050041730740_19.png"/>
+  </channel>
+  <channel id="544779">
+    <display-name lang="TW">博斯高球二台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/05/12/20260512050052940195_57.png"/>
+  </channel>
+  <channel id="544780">
+    <display-name lang="TW">博斯運動一台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/05/12/20260512050059858404_73.png"/>
+  </channel>
+  <channel id="544781">
+    <display-name lang="TW">博斯無限台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/05/12/20260512050115466583_42.png"/>
+  </channel>
+  <channel id="544782">
+    <display-name lang="TW">博斯網球台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/05/12/20260512050122363132_75.png"/>
+  </channel>
+  <channel id="544783">
+    <display-name lang="TW">博斯運動二台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/05/12/20260512050133457856_29.png"/>
+  </channel>
+  <channel id="544784">
+    <display-name lang="TW">博斯魅力台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/05/12/20260512050140344423_78.png"/>
+  </channel>
+  <channel id="544785">
+    <display-name lang="TW">博斯無限二台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2026/05/12/20260512050147321639_96.png"/>
+  </channel>
+  <channel id="456816">
+    <display-name lang="TW">博斯高球2台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917052137162286_92.jpg"/>
+  </channel>
+  <channel id="456843">
+    <display-name lang="TW">樂活頻道</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053846811460_82.jpg"/>
+  </channel>
+  <channel id="457353">
+    <display-name lang="TW">FRANCE24E HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/09/19/20250919172841959492_95.png"/>
+  </channel>
+  </tv>
