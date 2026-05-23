@@ -1,72 +1,72 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="Taiwan-DVBT-Taichung">
   <channel id="tw.pts">
-    <display-name>公視 PTS HD</display-name>
+    <display-name>tw.pts</display-name>
   </channel>
   <channel id="tw.ptstaigi">
-    <display-name>公視台語台</display-name>
+    <display-name>tw.ptstaigi</display-name>
   </channel>
   <channel id="tw.pts2">
-    <display-name>公視2台</display-name>
+    <display-name>tw.pts2</display-name>
   </channel>
   <channel id="tw.pts3">
-    <display-name>公視3台</display-name>
+    <display-name>tw.pts3</display-name>
   </channel>
   <channel id="tw.ptsplus">
-    <display-name>公視+ 教育文化</display-name>
+    <display-name>tw.ptsplus</display-name>
   </channel>
   <channel id="tw.ttv">
-    <display-name>台視 HD</display-name>
+    <display-name>tw.ttv</display-name>
   </channel>
   <channel id="tw.ttvnews">
-    <display-name>台視新聞台</display-name>
+    <display-name>tw.ttvnews</display-name>
   </channel>
   <channel id="tw.ttvfinance">
-    <display-name>台視財經台</display-name>
+    <display-name>tw.ttvfinance</display-name>
   </channel>
   <channel id="tw.ctv">
-    <display-name>中視 HD</display-name>
+    <display-name>tw.ctv</display-name>
   </channel>
   <channel id="tw.ctvnews">
-    <display-name>中視新聞台</display-name>
+    <display-name>tw.ctvnews</display-name>
   </channel>
   <channel id="tw.ctvclassic">
-    <display-name>中視經典台</display-name>
+    <display-name>tw.ctvclassic</display-name>
   </channel>
   <channel id="tw.cts">
-    <display-name>華視 HD</display-name>
+    <display-name>tw.cts</display-name>
   </channel>
   <channel id="tw.ctsnews">
-    <display-name>華視新聞資訊台</display-name>
+    <display-name>tw.ctsnews</display-name>
   </channel>
   <channel id="tw.ctsedu">
-    <display-name>華視教育文化台</display-name>
+    <display-name>tw.ctsedu</display-name>
   </channel>
   <channel id="tw.ftv">
-    <display-name>民視 HD</display-name>
+    <display-name>tw.ftv</display-name>
   </channel>
   <channel id="tw.ftvnews">
-    <display-name>民視新聞台</display-name>
+    <display-name>tw.ftvnews</display-name>
   </channel>
   <channel id="tw.ftv1">
-    <display-name>民視第一台</display-name>
+    <display-name>tw.ftv1</display-name>
   </channel>
   <channel id="tw.ftvtaiwan">
-    <display-name>民視台灣台</display-name>
+    <display-name>tw.ftvtaiwan</display-name>
   </channel>
   <channel id="tw.hakka">
-    <display-name>客家電視台</display-name>
+    <display-name>tw.hakka</display-name>
   </channel>
   <channel id="tw.hakka2">
-    <display-name>客家電視2台</display-name>
+    <display-name>tw.hakka2</display-name>
   </channel>
   <channel id="tw.titv">
-    <display-name>原住民族電視台 TITV</display-name>
+    <display-name>tw.titv</display-name>
   </channel>
   <channel id="tw.titv2">
-    <display-name>原民生活台 TITV2</display-name>
+    <display-name>tw.titv2</display-name>
   </channel>
   <channel id="tw.moe">
-    <display-name>學習頻道</display-name>
+    <display-name>tw.moe</display-name>
   </channel>
 </tv>
