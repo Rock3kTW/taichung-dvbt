@@ -1,5 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="Taiwan-DVBT-Taichung">
-  <!-- Channels will be inserted here -->
-  <!-- Programmes will be inserted here -->
+  <channel id="tw.pts">
+    <display-name>公視</display-name>
+  </channel>
+  <channel id="tw.ttv">
+    <display-name>台視</display-name>
+  </channel>
+  <channel id="tw.ctv">
+    <display-name>中視</display-name>
+  </channel>
+  <channel id="tw.cts">
+    <display-name>華視</display-name>
+  </channel>
+  <channel id="tw.ftv">
+    <display-name>民視</display-name>
+  </channel>
+  <channel id="tw.hakka">
+    <display-name>客家電視台</display-name>
+  </channel>
+  <channel id="tw.titv">
+    <display-name>原住民族電視台</display-name>
+  </channel>
+  <channel id="tw.moe">
+    <display-name>學習頻道</display-name>
+  </channel>
 </tv>
